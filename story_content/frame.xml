@@ -1,0 +1,1658 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns01001110111" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="unified">
+  <layouts>
+    <layout name="npnxnanbsnfns01011110111" font="Lato" controllayout="npnxnanbsnfns01011110111" colorscheme="npnxnanbnsnfns01001110111" string_table="npnxnanbnsnfns01001110111" />
+    <layout name="pxabnsnfns01011110111" font="Lato" controllayout="pxabnsnfns01011110111" colorscheme="npnxnanbnsnfns01001110111" string_table="npnxnanbnsnfns01001110111" />
+    <layout name="npxnabnsnfns01011110111" font="Lato" controllayout="npxnabnsnfns01011110111" colorscheme="npnxnanbnsnfns01001110111" string_table="npnxnanbnsnfns01001110111" />
+    <layout name="npnxnanbnsnfns01011110111" font="Lato" controllayout="npnxnanbnsnfns01011110111" colorscheme="npnxnanbnsnfns01001110111" string_table="npnxnanbnsnfns01001110111" />
+    <layout name="pxabnsnfns01011110110" font="Lato" controllayout="pxabnsnfns01011110110" colorscheme="npnxnanbnsnfns01001110111" string_table="npnxnanbnsnfns01001110111" />
+    <layout name="pxabnsnfns01001100111" font="Lato" controllayout="pxabnsnfns01001100111" colorscheme="npnxnanbnsnfns01001110111" string_table="npnxnanbnsnfns01001110111" />
+    <layout name="pxabnsnfns01001110111" font="Lato" controllayout="pxabnsnfns01001110111" colorscheme="npnxnanbnsnfns01001110111" string_table="npnxnanbnsnfns01001110111" />
+    <layout name="npxnabnsnfns01001110111" font="Lato" controllayout="npxnabnsnfns01001110111" colorscheme="npnxnanbnsnfns01001110111" string_table="npnxnanbnsnfns01001110111" />
+    <layout name="npnxnanbnsnfns01001110111" font="Lato" controllayout="npnxnanbnsnfns01001110111" colorscheme="npnxnanbnsnfns01001110111" string_table="npnxnanbnsnfns01001110111" />
+    <layout name="npxnabnsnfns01001100111" font="Lato" controllayout="npxnabnsnfns01001100111" colorscheme="npnxnanbnsnfns01001110111" string_table="npnxnanbnsnfns01001110111" />
+    <layout name="npnxabnsnfns01011110111" font="Lato" controllayout="npnxabnsnfns01011110111" colorscheme="npnxnanbnsnfns01001110111" string_table="npnxnanbnsnfns01001110111" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="Annual HIPAA Compliance Training Course " />
+            </options>
+          </option>
+          <option name="logo_enabled" value="true">
+            <options>
+              <option name="logo_url" value="story_content\6hFxQCN4SlC_DX1024_DY1024.swf" />
+              <option name="html5_logo_url" value="mobile/5rXuuXhY03b.png" />
+            </options>
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+              <option name="closed" value="false" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="resources" value="true" group="linkright" />
+              <listitem name="transcript" value="false" group="linkright" />
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="true" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="elapsed" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="true" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="pauseplay" value="true" />
+          <option name="replay" value="false" />
+          <option name="search" value="true" />
+          <option name="closed_captions" value="true">
+            <options>
+              <option name="font" value="Lato" />
+            </options>
+          </option>
+          <option name="settings" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="buttonoptions">
+        <options>
+          <option name="next" value="icontext" />
+          <option name="previous" value="icontext" />
+          <option name="submit" value="icontext" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns01011110111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01011110111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns01011110111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns01011110111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01011110110">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001100111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001110111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns01001110111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns01001110111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns01001100111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxabnsnfns01011110111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npnxnanbnsnfns01001110111">
+      <color_group name="accessibility">
+        <group_colors>
+          <color name="focus_rect">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFF00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x282828" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="preloader">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFF0000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3C3C3C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x316300" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x222222" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4E4E4E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4E4E4E" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x222222" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="scene_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x212121" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x212121" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x404040" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="panel_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x323232" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bottom_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x313131" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3C3C3C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x292929" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xAAAAAA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x457E13" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3F8500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3C3C3C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_in_tab">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x545454" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6AA242" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A5400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x275000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A5500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4B8A16" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x494949" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7B7B7B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x479901" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x366F00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x1B1B1B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="generic_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="40" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="right_shadow">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+                <color rgb="0x000000" alpha="30" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x254B00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xAFDD82" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2BC400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A5300" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="brandhighlight">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4F81BD" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x1B1B1B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x282828" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x282828" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x282828" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="overlay_message">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="85" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="panel_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x323232" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2B5500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2B5500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x428C01" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x3C3C3C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="40" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npnxnanbnsnfns01001110111">
+      <string id="acc_active">active</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear and return to menu</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions.</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Definition</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="action">Action</string>
+      <string id="keyboardshortcuts">Keyboard Shortcuts</string>
+      <string id="shortcuthelp">List keyboard shortcuts</string>
+      <string id="shortcut">Shortcut</string>
+      <string id="togglezoom">Switch zoom modes</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="next">NEXT</string>
+      <string id="acc_next">next</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="acc_play">play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">PREV</string>
+      <string id="acc_previous">previous</string>
+      <string id="question_list">Question List</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_toggle">Search</string>
+      <string id="sidebar_toggle">Sidebar Toggle</string>
+      <string id="desktop_start">Start Course</string>
+      <string id="mobile_start">Start Course</string>
+      <string id="search">Search...</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="acc_skipnavigation">Back to top</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Lato">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+    <font name="Arial">
+      <files>
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.5bCj4VklFNm" displaytext="Welcome" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5bCj4VklFNm.6netS8zd8ht" displaytext="Weclome to the Annual HIPAA " expand="false" type="slide" />
+            <slidelink slideid="_player.5bCj4VklFNm.6abO5xBdVs9" displaytext="Navigation and Course Instructions" expand="false" type="slide" />
+            <slidelink slideid="_player.5bCj4VklFNm.6G9ogt1iscs" displaytext="About this course" expand="false" type="slide" />
+            <slidelink slideid="_player.5bCj4VklFNm.5mBgvWwSFnN" displaytext="Course Objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.5bCj4VklFNm.5jU5BwjtsUc" displaytext="Intro to HIPAA Violation Video " expand="false" type="slide" />
+            <slidelink slideid="_player.5bCj4VklFNm.6akcaiXI14r" displaytext="Introduction to HIPAA Video" expand="false" type="slide" />
+            <slidelink slideid="_player.5bCj4VklFNm.5oyZEofH2jD" displaytext="Congratulations" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6InGWDqAUAU" displaytext="Lesson 1 Course Introduction" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6InGWDqAUAU.6NzAfYBinmJ" displaytext="Introduction to HIPAA " expand="false" type="slide" />
+            <slidelink slideid="_player.6InGWDqAUAU.6W2pjkcjuls" displaytext="What is HIPAA?" expand="false" type="slide" />
+            <slidelink slideid="_player.6InGWDqAUAU.6HwIH60XZgg" displaytext="HIPAA Background" expand="false" type="slide" />
+            <slidelink slideid="_player.6InGWDqAUAU.5wdXeaCILu9" displaytext="Why take this course?" expand="false" type="slide" />
+            <slidelink slideid="_player.6InGWDqAUAU.6COa7b1iJ9n" displaytext="Protected Health Information " expand="false" type="slide" />
+            <slidelink slideid="_player.6InGWDqAUAU.5nOmXzqkGQS" displaytext="Understanding PHI Intro Video " expand="false" type="slide" />
+            <slidelink slideid="_player.6InGWDqAUAU.65NFvwVw7CE" displaytext="Defining Defining PHI" expand="false" type="slide" />
+            <slidelink slideid="_player.6InGWDqAUAU.6WkVUGvrKdS" displaytext="What does it mean to be HIPAA compliant? " expand="false" type="slide" />
+            <slidelink slideid="_player.6InGWDqAUAU.6AGZpcAQLlU" displaytext="Prevent a HIPAA PHI Violation or a Breach Video" expand="false" type="slide" />
+            <slidelink slideid="_player.6InGWDqAUAU.6pUBHB6KJNc" displaytext="How to Prevent a HIPAA PHI Violation or a Breach" expand="false" type="slide" />
+            <slidelink slideid="_player.6InGWDqAUAU.6mXTXwrr7AD" displaytext="Lesson 1 Knowledge Check Questions" expand="false" type="slide" />
+            <slidelink slideid="_player.6InGWDqAUAU.5pTZ5z7fkqh" displaytext="Question 1 Single Answer Multiple Choice" expand="false" type="slide" />
+            <slidelink slideid="_player.6InGWDqAUAU.5nDiTSR115q" displaytext="Question 2 True or false" expand="false" type="slide" />
+            <slidelink slideid="_player.6InGWDqAUAU.6jio3RyHnL9" displaytext="Question 3 Single Answer Multiple Choice" expand="false" type="slide" />
+            <slidelink slideid="_player.6InGWDqAUAU.6KOBnRtfTPu" displaytext="Question 4 Choose Eight" expand="false" type="slide" />
+            <slidelink slideid="_player.6InGWDqAUAU.6ECDuaKKiD1" displaytext="Congratulations" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5iRMJIWmda8" displaytext="Lesson 2 Privacy Rule" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5iRMJIWmda8.5ZGCLzp84K9" displaytext="Understanding HIPAA Privacy Rule" expand="false" type="slide" />
+            <slidelink slideid="_player.5iRMJIWmda8.6jpureoq86R" displaytext="Introduction to HIPAA Privacy Rule" expand="false" type="slide" />
+            <slidelink slideid="_player.5iRMJIWmda8.6CoOTTlPKvS" displaytext="HIPAA Hybrid Entity " expand="false" type="slide" />
+            <slidelink slideid="_player.5iRMJIWmda8.6LhxZYv68KT" displaytext="Introduction to Use and Disclosure " expand="false" type="slide" />
+            <slidelink slideid="_player.5iRMJIWmda8.6k8qQ56nDpS" displaytext="Use and Disclosure Video" expand="false" type="slide" />
+            <slidelink slideid="_player.5iRMJIWmda8.62syFBQb2ed" displaytext="Introduction to Defining CE and BA Video " expand="false" type="slide" />
+            <slidelink slideid="_player.5iRMJIWmda8.5v1y1BWfaKb" displaytext="Defining a CE, BA &amp;amp; Sub-contractors" expand="false" type="slide" />
+            <slidelink slideid="_player.5iRMJIWmda8.69CW9HgI0iC" displaytext="Permitted Disclosures" expand="false" type="slide" />
+            <slidelink slideid="_player.5iRMJIWmda8.6F6lQEzaDHY" displaytext="Introduction to Disclosures for TPO" expand="false" type="slide" />
+            <slidelink slideid="_player.5iRMJIWmda8.6jhOQHs8an1" displaytext="Defining Disclosures for (TPO)" expand="false" type="slide" />
+            <slidelink slideid="_player.5iRMJIWmda8.6pQT5hJk6Gg" displaytext="Authorizations" expand="false" type="slide" />
+            <slidelink slideid="_player.5iRMJIWmda8.5VtHceb8KU3" displaytext="Minimum Necessary Rule" expand="false" type="slide" />
+            <slidelink slideid="_player.5iRMJIWmda8.5eStv0eOJN2" displaytext="Incidental Disclosures" expand="false" type="slide" />
+            <slidelink slideid="_player.5iRMJIWmda8.6h34Jq1THhB" displaytext="What is Individually Identifiable Health Information?" expand="false" type="slide" />
+            <slidelink slideid="_player.5iRMJIWmda8.5lJwFSwS1hX" displaytext="Normal Protection" expand="false" type="slide" />
+            <slidelink slideid="_player.5iRMJIWmda8.67davTO7t3i" displaytext="HIPAA Privacy Rule Mistakes Video" expand="false" type="slide" />
+            <slidelink slideid="_player.5iRMJIWmda8.6qRqbcEma4j" displaytext="Privacy Rule PHI Mistakes Video " expand="false" type="slide" />
+            <slidelink slideid="_player.5iRMJIWmda8.6PsDN3VwgZA" displaytext="Lesson 2 Knowledge Check Questions" expand="false" type="slide" />
+            <slidelink slideid="_player.5iRMJIWmda8.5hrehSjx9We" displaytext="Question 1 Single Answer Multiple Choice" expand="false" type="slide" />
+            <slidelink slideid="_player.5iRMJIWmda8.6Qq8SCZPN8q" displaytext="Question 2 True orFalse Question" expand="false" type="slide" />
+            <slidelink slideid="_player.5iRMJIWmda8.6DyiLD4Ub0h" displaytext="Question 3  Single Answer Multiple Choice  " expand="false" type="slide" />
+            <slidelink slideid="_player.5iRMJIWmda8.5sf2Ijs8q3y" displaytext="Question 4 True orFalse Question" expand="false" type="slide" />
+            <slidelink slideid="_player.5iRMJIWmda8.6j61ERzfcVS" displaytext="Question 5 Single Answer Multiple Choice" expand="false" type="slide" />
+            <slidelink slideid="_player.5iRMJIWmda8.6c3CbFSYjwQ" displaytext="Congratulations" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6CHfAmzi4QI" displaytext="Lesson 3 Security Rule " expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6CHfAmzi4QI.6duEXgFef4e" displaytext="Understanding HIPAA Security Rule" expand="false" type="slide" />
+            <slidelink slideid="_player.6CHfAmzi4QI.6IdpsQI8Ame" displaytext="The HIPAA Security Rule regulates the protection of electronic protected health information (ePHI) that is created, received, used or maintained by a covered entity." expand="false" type="slide" />
+            <slidelink slideid="_player.6CHfAmzi4QI.6Fs5J91tNK0" displaytext="HIPAA Security Rules " expand="false" type="slide" />
+            <slidelink slideid="_player.6CHfAmzi4QI.5w40qhPpd4R" displaytext="Administrative Safeguards " expand="false" type="slide" />
+            <slidelink slideid="_player.6CHfAmzi4QI.61YGP3Qj3SO" displaytext="Technical Safeguards " expand="false" type="slide" />
+            <slidelink slideid="_player.6CHfAmzi4QI.6Ln5XogQwab" displaytext="5 Easy Steps to Encrypt an Email" expand="false" type="slide" />
+            <slidelink slideid="_player.6CHfAmzi4QI.63dYquzal7A" displaytext="Physical Safeguards " expand="false" type="slide" />
+            <slidelink slideid="_player.6CHfAmzi4QI.6LFL6pscT4C" displaytext="Password Strength Requirements " expand="false" type="slide" />
+            <slidelink slideid="_player.6CHfAmzi4QI.6X1WqSBAWXS" displaytext="Intro Scenario Video HIPAA Breach" expand="false" type="slide" />
+            <slidelink slideid="_player.6CHfAmzi4QI.6V6ywg12HtN" displaytext="HIPAA ePHI Examples of What Not to Do" expand="false" type="slide" />
+            <slidelink slideid="_player.6CHfAmzi4QI.5bpUvl7JzWO" displaytext="Lesson 3 Knowledge Check Questions" expand="false" type="slide" />
+            <slidelink slideid="_player.6CHfAmzi4QI.6HFojpxDB7D" displaytext="Question 1 True or false" expand="false" type="slide" />
+            <slidelink slideid="_player.6CHfAmzi4QI.6lhhnlGaEVQ" displaytext="Question 2  Single Answer Multiple Choice" expand="false" type="slide" />
+            <slidelink slideid="_player.6CHfAmzi4QI.5Xh3DU7OiMd" displaytext="Question 3 Drag and Drop" expand="false" type="slide" />
+            <slidelink slideid="_player.6CHfAmzi4QI.6b5M9w6IzkW" displaytext="Question 4 Single Answer Multiple Choice " expand="false" type="slide" />
+            <slidelink slideid="_player.6CHfAmzi4QI.5g7dsPOgBNa" displaytext="Question 5 Yes or No Question" expand="false" type="slide" />
+            <slidelink slideid="_player.6CHfAmzi4QI.6oPuuzc01S2" displaytext="Congratulations" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5mvvd3Tljdf" displaytext="Lesson 4 Individual Privacy Rights" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5mvvd3Tljdf.69930fN3PVy" displaytext="Individual Privacy Rights" expand="false" type="slide" />
+            <slidelink slideid="_player.5mvvd3Tljdf.5YabtugfpDu" displaytext="Introduction to NPP" expand="false" type="slide" />
+            <slidelink slideid="_player.5mvvd3Tljdf.5lhHYGp65Y4" displaytext="PHI and Notice of Privacy Practices (NPP)" expand="false" type="slide" />
+            <slidelink slideid="_player.5mvvd3Tljdf.6JaQSuLObv4" displaytext="What does a Notice of Privacy Practices Include" expand="false" type="slide" />
+            <slidelink slideid="_player.5mvvd3Tljdf.5z9GIZl1XrL" displaytext="Acknowledgment of NPP" expand="false" type="slide" />
+            <slidelink slideid="_player.5mvvd3Tljdf.6e5MAb5Soac" displaytext="Patient Rights " expand="false" type="slide" />
+            <slidelink slideid="_player.5mvvd3Tljdf.6PKIqYBIrKj" displaytext="Provider Rights " expand="false" type="slide" />
+            <slidelink slideid="_player.5mvvd3Tljdf.64Jor4LzE5T" displaytext="Penalties for Non-Compliance" expand="false" type="slide" />
+            <slidelink slideid="_player.5mvvd3Tljdf.5ZTWa2EiuVJ" displaytext="Introduction Summary" expand="false" type="slide" />
+            <slidelink slideid="_player.5mvvd3Tljdf.6hCWSqX2oJu" displaytext="HIPAA Summary Review " expand="false" type="slide" />
+            <slidelink slideid="_player.5mvvd3Tljdf.5oUN5suY3IJ" displaytext="Lesson 4 Knowledge Check Questions" expand="false" type="slide" />
+            <slidelink slideid="_player.5mvvd3Tljdf.62AQeeFY9lM" displaytext="Question 1 True or false" expand="false" type="slide" />
+            <slidelink slideid="_player.5mvvd3Tljdf.6kLJYqHgLrN" displaytext="Question 2 Single Answer Multiple Choice" expand="false" type="slide" />
+            <slidelink slideid="_player.5mvvd3Tljdf.6VE0FGMpLoB" displaytext="Question 3  Single Answer Multiple Choice" expand="false" type="slide" />
+            <slidelink slideid="_player.5mvvd3Tljdf.5sUh8yCgnIX" displaytext="Question 4  Single Answer Multiple Choice" expand="false" type="slide" />
+            <slidelink slideid="_player.5mvvd3Tljdf.5aGqHhPOfUR" displaytext="Key Takeaways" expand="false" type="slide" />
+            <slidelink slideid="_player.5mvvd3Tljdf.5iXDSU8X3ju" displaytext="Last page" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="6InGWDqAUAU.6NzAfYBinmJ" slidebank="false" type="slide">1 /16 in this training course, you’ll learn about three basic concepts related to what it means to be hipaa compliant. in addition, you’ll learn about what is protected by hipaa.  lesson 1 an introduction to hipaa  we’ll introduce privacy and security rule, and what role you play, and how it affects the way you do your job. introduction to hipaa</slidetext>
+      <slidetext slideid="6InGWDqAUAU.6W2pjkcjuls" slidebank="false" type="slide"> individual privacy rights  with limited exceptions, the hipaa privacy rule (the privacy rule) provides individuals with a legal, enforceable right to see and receive copies upon request of the information in their medical and other health records maintained by their health care providers and health plans.   hipaa security rule  the hipaa security rule established standards for  safeguarding this information when it is transmitted or  stored in electronic form. this specifies safeguards that must be implemented to protect the confidentiality, integrity, and availability of electronic protected health information (ephi).   hipaa privacy rule  the hipaa privacy rule establishes national standards to protect individuals' medical records and other personal health information, and applies to health plans, health care clearinghouses, and those health care providers that conduct certain health care transactions electronically.  lesson 1 2 /16 click on each of the hotspot        areas to learn more about the: hipaa is a set of regulations that governs the use and establish the guidelines for the protection and security of protected health information (phi).  generally this applies to healthcare providers, health insurers and health information clearinghouses covered entities.   what is hipaa? hipaa privacy rule  hipaa security rule  individual  privacy rights  introduction to hipaa</slidetext>
+      <slidetext slideid="6InGWDqAUAU.6HwIH60XZgg" slidebank="false" type="slide"> objective 2  the second part of the act is the "accountability" portion.  this section is designed to ensure the security and confidentiality of patient information data.   in addition, it mandates uniform standards for electronic data transmission of administrative and financial data relating to patient health information.   objective 1  one was to ensure that individuals would be able to maintain their health insurance between jobs.   this is the health insurance portability part of the act. it is relatively straightforward, and has been successfully implemented. 3 /16 hipaa the health insurance portability and accountability act was enacted as a broad congressional attempt at healthcare reform - it was initially introduced in congress as the kennedy-kassebaum bill.  the landmark act was passed in 1996 with two objectives.  to learn more about the hipaa background objectives, click on objective box  1 &amp; 2.  objective 2 click here to view more details.  objective  1 click here to view more details.  hipaa background lesson 1 introduction to hipaa</slidetext>
+      <slidetext slideid="6InGWDqAUAU.5wdXeaCILu9" slidebank="false" type="slide">4 /16  why take this course? lesson 1 introduction to hipaa anyone working for a healthcare provider or an entity covered by hipaa is exposed to personal information about its patients or clients.  every employee is required to follow federal and state laws and internal policies to safeguard patient information. in this training, you’ll learn about three basic concepts related to what it means to be hipaa compliant. in addition, you’ll learn about what is protected by hipaa. this course will help you understand why privacy and security requirements are important and how they affect the way you do your job.</slidetext>
+      <slidetext slideid="6InGWDqAUAU.6COa7b1iJ9n" slidebank="false" type="slide">5 / 16  protected health information  lesson 1 introduction to hipaa phi is individually identifiable information that is created or received by a hipaa covered healthcare component: individually identifiable health information is information about: the physical or mental health condition of an individual, the provision of healthcare to an individual, or,  the payment for healthcare entities.   medical information received or created by areas of the county that aren’t hipaa healthcare components are not considered to be phi.  for example, an employee’s medical information isn’t covered by hipaa at ramsey county.</slidetext>
+      <slidetext slideid="6InGWDqAUAU.5nOmXzqkGQS" slidebank="false" type="slide">6/16  understanding phi    this video provides more detail information about phi. let's take a look at the video.  click the next button. what is protected health infomation phi? introduction to hipaa video   lesson 1</slidetext>
+      <slidetext slideid="6InGWDqAUAU.65NFvwVw7CE" slidebank="false" type="slide"> lesson  1 7 / 16    defining defining phi introduction to hipaa</slidetext>
+      <slidetext slideid="6InGWDqAUAU.6WkVUGvrKdS" slidebank="false" type="slide">8/ 16  what does it mean to be hipaa compliant?  lesson 1 introduction to hipaa hipaa compliance is not a static concept. being compliant requires ongoing efforts and is a dynamic process.   organizations and their employees must first achieve compliance, and must maintain their level of hipaa compliance by ensuring that daily activities are performed within hipaa’s privacy and security guidelines.</slidetext>
+      <slidetext slideid="6InGWDqAUAU.6AGZpcAQLlU" slidebank="false" type="slide">9/ 16  how to prevent a hipaa violation    this video depicts an employee’s concern for confidential phi being left in the copy room, where anyone can have access to sensitive information. this is an example of a phi violation and it shouldn’t be taken lightly.  phi violations can potentially cost companies thousands on lawsuits and loss of information. therefore, organizations collaboratively come up with a method on how to prevent future hipaa violations since companies can not risk a violation.  let's take a look at the video.  click the next button. lesson  1  scenario video introduction to hipaa</slidetext>
+      <slidetext slideid="6InGWDqAUAU.6pUBHB6KJNc" slidebank="false" type="slide"> lesson 1 10 /16   how to prevent a hipaa phi violation or a breach introduction to hipaa</slidetext>
+      <slidetext slideid="6InGWDqAUAU.6mXTXwrr7AD" slidebank="false" type="slide">lesson 1 11 / 16  lesson 01  this course has knowledge check questions designed to help you retain what you’ve learned. this lesson contains (4) questions, at the end of each question you’ll find out how well you did.   lets get started knowledge check questions  introduction to hipaa</slidetext>
+      <slidetext slideid="6InGWDqAUAU.5pTZ5z7fkqh" slidebank="false" type="slide">the correct answers is: the federal standards for the protection of health information  wrong! sorry! this is not the correct answer! better luck next time!   correct! yes, you did it, you chose the correct answer. congratulations, good job!  lesson 1 12 / 16 select only one answer the federal rules for medicare payments.  the federal rules for medicare payments. the federal rules for medicare payments. the federal standards for the protection of health information  the federal standards for the protection of health information the federal standards for the protection of health information the state rules for medicaid.   the state rules for medicaid.  the state rules for medicaid.   the federal rules for medicaid payments.  the federal rules for medicaid payments. the federal rules for medicaid payments. submit submit submit submit submit  what is hipaa? question 1 introduction to hipaa</slidetext>
+      <slidetext slideid="6InGWDqAUAU.5nDiTSR115q" slidebank="false" type="slide">the correct answer is (true) hipaa is a set of regulations that governs the use and establish the guidelines for the protection and security of protected health information (phi).    wrong! sorry! this is not the correct answer! better luck next time!    correct! yes, you did it, you chose the correct answer. congratulations, good job!  lesson 1 13 / 16 hipaa is a set of regulations that governs the use and establish the guidelines for the protection and security of protected health information (phi).  true true true true true false false false false false   true or false question 2 introduction to hipaa</slidetext>
+      <slidetext slideid="6InGWDqAUAU.6jio3RyHnL9" slidebank="false" type="slide">the correct answer is: protected health information.  wrong! sorry! this is not the correct answer! better luck next time!   correct! yes, you did it, you chose the correct answer. congratulations, good job!  lesson 1 14/  16 select only one answer protected health identifier.  protected health identifier. protected health identifier.  patient health insurance.  patient health insurance. patient health insurance. protected health information.  protected health information. protected health information. privacy health information.  privacy health information. privacy health information. submit submit submit submit submit      what is phi? question 3 introduction to hipaa</slidetext>
+      <slidetext slideid="6InGWDqAUAU.6KOBnRtfTPu" slidebank="false" type="slide">correct !  yes, you did it, you chose the correct answers. congratulations, good job! sorry! this is not the correct answer! better luck next time!  sorry! better luck next time. the correct answers are marked with a (green check mark). incorrect !  lesson 1 15 / 16 protected health information, phi can include which of the following, pick just eight correct answers from all the given ones. click the submit button to see how well you did. then click the next button. submit submit submit submit name name name date of birth date of birth date of birth employ-ment records employ-ment records employ-ment records diagnosis diagnosis diagnosis social  security number social  security number social  security number medical record number medical record number medical record number phone numbers phone numbers phone numbers education records  education records  education records  health-care billing health-care billing health-care billing  mri scan report mri scan report mri scan report  choose eight! question 4</slidetext>
+      <slidetext slideid="6InGWDqAUAU.6ECDuaKKiD1" slidebank="false" type="slide">  congratulations! you've just completed“lesson 1”.  click the button to start “lesson 2” or click to “leave the course”.  start lesson  2 start lesson  2 start lesson  2 leave the course leave the course leave the course lesson 1 congratulations! 16 / 16</slidetext>
+      <slidetext slideid="5iRMJIWmda8.5ZGCLzp84K9" slidebank="false" type="slide">1 /24 in this lesson, you’ll learn about the hipaa privacy rule, and how it regulates your work as well as other aspects of your job.   lesson 2 understanding       hipaa privacy rule hipaa privacy rule  </slidetext>
+      <slidetext slideid="5iRMJIWmda8.6jpureoq86R" slidebank="false" type="slide"> introduction to hipaa privacy rule the privacy rule lays out when phi can be accessed by internal staff members or disclosed to outside entities.  it also explains when a client's consent is needed to disclose phi. the hipaa privacy rule requires protected health information, like medical records, to be kept private. lesson 2 2/ 24 hipaa privacy rule  </slidetext>
+      <slidetext slideid="5iRMJIWmda8.6CoOTTlPKvS" slidebank="false" type="slide"> areas of a hybrid entity that are subject to hipaa are called healthcare components as (hcc). ramsey county has a table posted on ramseynet that designates its hccs.  the table is updated often, refer to it when determining who is covered by hipaa at ramsey county.   hccs must comply with hipaa and treat other areas of the county as if they were different organizations. this means protected health information (phi) generally cannot be shared with other parts of the county without the individual’s consent.    a hipaa hybrid entity is an organization that has some departments or service areas covered by hipaa because they provide healthcare services. for example: large universities are usually hipaa hybrids, designating only their medical areas as subject to hipaa.  lesson  2 3 /24 hipaa allows organizations that provide more than healthcare services, to decide if the entire organization should comply with hipaa or if it will comply as a hybrid entity.  hipaa hybrid entity  click  on each of the hotspot         areas to learn more about a hybrid entity.  what is a hybrid entity? hipaa privacy rule  </slidetext>
+      <slidetext slideid="5iRMJIWmda8.6LhxZYv68KT" slidebank="false" type="slide">lesson  2 4 / 24  in this section, we’ll discuss several common situations with specific use and disclosure requirements. however, there are many more exceptions and situations that can affect how your organization uses and discloses patient data. make sure to receive professional assistance to help you with your specific environment. use and disclosure  organizations aren’t allowed to use or disclose patient data outside of what is permitted or required.  however, there are also specific instances where you are not allowed to use or disclose patient data. let’s get started. </slidetext>
+      <slidetext slideid="5iRMJIWmda8.6k8qQ56nDpS" slidebank="false" type="slide"> lesson 2 5 /24   use and disclosure  hipaa privacy rule  </slidetext>
+      <slidetext slideid="5iRMJIWmda8.62syFBQb2ed" slidebank="false" type="slide">6/ 24  this video provides a brief introduction to understanding a ce, ba, and sub-contractors when it comes to protecting  phi. let's take a look at the video.  click the next button. defining what is a covered entity  business associate &amp; sub-contractors hipaa privacy rule    lesson  2 </slidetext>
+      <slidetext slideid="5iRMJIWmda8.5v1y1BWfaKb" slidebank="false" type="slide"> lesson 2 7 / 24    defining a ce, ba &amp; sub-contractors hipaa privacy rule  </slidetext>
+      <slidetext slideid="5iRMJIWmda8.69CW9HgI0iC" slidebank="false" type="slide">  business associate working on behalf of the covered entity who has signed a business associate agreement. for payments, and health care operations activities.  treatment, payment, healthcare operations of any covered entity a covered entity may use and disclose phi for its own treatment, payment, and health care operations activities. other disclosures include provider treatment, and payment activities.  another option is obtaining consent written permission from individuals to    use and disclose their phi for treatment, payment, and health care operations.  consent is optional under the privacy rule for all covered entities.  to the individual  a hipaa covered entity may disclose protected health information to the individual who is the subject of the information.  8 / 24  lesson 2 to the individual to the individual to the individual to the individual to the individual   treatment, payment,  healthcare operations   treatment, payment,  healthcare operations   treatment, payment,  healthcare operations   treatment, payment,  healthcare operations   treatment, payment,  healthcare operations business associate covered entity   business associate covered entity   business associate covered entity   business associate covered entity   business associate covered entity   permitted disclosures click on the tabs to learn about the 3 key points of permitted disclosures. permitted phi disclosures, according to the privacy rule,     is a covered entity that may not use or disclose protected health information phi:  except as the privacy rule permits or requires, or as the individual who is the subject of the information,       or the individual’s personal representative) authorized in writing.  hipaa privacy rule  </slidetext>
+      <slidetext slideid="5iRMJIWmda8.6F6lQEzaDHY" slidebank="false" type="slide"> health care operations include the following:  maintenance of medical records. maintenance of accounting records.  quality assurance activities. staff credentialing and performance evaluation.  conducting financial and management audits. investigating complaints.  supporting legal activities. resolving grievances. 9/ 24 the hipaa privacy rule permits a health care provider to disclose protected health information about an individual, without the individual's authorization, to another health care provider for that provider's treatment or payment purposes, as well as to another covered entity for certain health care operations.   click here! healthcare operations  introduction to disclosures for treatment, payments and operations (tpo) lesson 2 click on box 1 to display a list of healthcare operations. hipaa privacy rule  </slidetext>
+      <slidetext slideid="5iRMJIWmda8.6jhOQHs8an1" slidebank="false" type="slide">  health care operations these are certain administrative, financial, legal, and quality improvement activities of a covered entity that are necessary to run its business and to support the core functions of treatment and payment, along with it support and customer service.  payment of services phi can be  disclosed to facilitate the payment for medical services.  this generally means the process of billing insurance companies.  treatments this encompasses the care we provide to the patient, it includes payments, billing and collection activities. the treatment exception allows us to consult with other providers who are treating patients or refer a patient to other providers.  10 / 24 treatments treatments treatments treatments treatments payment of services to patients payment of services to patients payment of services to patients payment of services to patients payment of services to patients health care operations health care operations health care operations health care operations health care operations  defining disclosures for treatments, payments, and operations (tpo) lesson 2 under hipaa, a covered entity provider can disclose phi to another covered entity provider, for the treatment activities of the recipient health care provider, without needing patient consent or authorization.   there are 3 important facts that helps to govern hipaa laws and regulations.  click on the tabs to learn more about disclosure of tpo. hipaa privacy rule  </slidetext>
+      <slidetext slideid="5iRMJIWmda8.6pQT5hJk6Gg" slidebank="false" type="slide"> when is authorization needed?  when is authorization needed?  staff may use and disclose only the minimum necessary information. to use or disclose phi other than: for treatment, payment, health care operations. to comply with legal mandates. general business management.   content of authorization content of authorization  authorization must do the following: identify the information to be used or disclosed. identify users or persons to whom disclosed. authorization generally cannot be a requirement for treatment.  note that it may be re-disclosed by others.    authorization for the release of information authorization for the release of information  this is required for uses and disclosures of phi other than for: treatment  payment health care operations  to comply with legal mandates. this must be signed by the patient, or the patient’s personal representative.  authorization for the release of information authorization for the release of information authorization for the release of information authorization for the release of information content of authorization content of authorization content of authorization content of authorization when is authorization needed?  when is authorization needed?  when is authorization needed?  when is authorization needed?   authorizations lesson 2 hipaa privacy rule the privacy rule permits,             but does not require, a covered entity voluntarily to obtain patient consent for uses, and disclosures of protected health information for treatment, payment, and health care operations. note: the minnesota health records act requires consent    even for treatment, payment       and operations activities.  click the tabs to learn more about these authorizations. 11 / 24</slidetext>
+      <slidetext slideid="5iRMJIWmda8.5VtHceb8KU3" slidebank="false" type="slide"> for example: a nurse can access phi about a patient she treated, but should not be granted access to phi belonging to patients in other areas of the county.  lesson 2 12 / 24 the minimum necessary rule dictates that employees should only access the minimum necessary amount of phi to perform their job functions. this regulates whether an employee can access phi including the amount and type of phi.   minimum necessary rule ramsey county must authorize access to phi in accordance with the privacy and security rules. employees should be restricted to accessing only the amount of phi necessary to perform their jobs.  once an employee is granted access to a system containing phi they may only access the records necessary to do their job, and systems containing phi should track which staff members access which records to ensure only the minimum necessary is accessed. click here to see an example  of minimum necessary rule click here to see an example  of minimum necessary rule click here to see an example  of minimum necessary rule hipaa privacy rule  </slidetext>
+      <slidetext slideid="5iRMJIWmda8.5eStv0eOJN2" slidebank="false" type="slide">    try to minimize incidental disclosures for example:  having discussions held in a private area is a good way to minimize incidental disclosure; remember a hallway is not private.  limit discussion when others are present.     incidental disclosures do not need to be “documented”.   incidental disclosures are permitted       examples of incidental disclosures: an overheard conversation among staff members. an overheard discussion between staff and patients. an overheard telephone call to a patient. test results filed in patient records. a disclosure is generally not "incidental"                                                        if it could have reasonably been prevented.    definition of an allowable incidental disclosure hhs defines an incidental disclosure as the following:  “an incidental use or disclosure is a secondary use or disclosure that cannot reasonably be prevented, is limited in nature, and that occurs as a result of another  use or disclosure that is permitted by the rule”.   lesson 2 13 / 24 the hipaa privacy rule allows for certain incidental disclosures of protected health information  when a covered entity is maintaining all other elements of compliance, including necessary safeguards and policies and procedures that reflect the minimum necessary standard to privacy.  allowable incidental disclosure allowable incidental  disclosure allowable incidental disclosure allowable incidental disclosure allowable incidental disclosure examples of incidental disclosures examples of incidental disclosures examples of incidental disclosures examples of incidental disclosures examples of incidental disclosures incidental disclosures are permitted  incidental disclosures are permitted  incidental disclosures are permitted  incidental disclosures are permitted  incidental disclosures are permitted  minimize incidental disclosures minimize incidental disclosures minimize incidental disclosures minimize incidental disclosures minimize incidental disclosures  click on each tab to learn more about incidental disclosures. incidental disclosures hipaa privacy rule  </slidetext>
+      <slidetext slideid="5iRMJIWmda8.6h34Jq1THhB" slidebank="false" type="slide">individually identifiable health information   created or received by a health care provider, health plan, employer, or health care clearinghouse.  identifying the individual relates to the past, present or future health of an individual; services provided to an individual; or payment  of  services; and that identifies the individual; or there is reason to believe the information can be used to identify the individual.  14 /24 hipaa defines individually identifiable health information as information that is a subset of health information, including demographic information collected from an individual. individually identifiable health information  individually identifiable health information  individually identifiable health information  individually identifiable health information  individually identifiable health information  identifying the individual identifying the individual identifying the individual identifying the individual identifying the individual click on each tab to learn more.   what is individually identifiable health information? lesson 2 hipaa privacy rule  </slidetext>
+      <slidetext slideid="5iRMJIWmda8.5lJwFSwS1hX" slidebank="false" type="slide"> there are cases where a consent to disclose information is not needed, but this is very limited. the patient's consent needs to specifically state which entities are authorized to release the information, and to whom.  consent to disclose  under part 2  re-disclosure is not permitted, language must be included with any disclosure to address prohibition of re-disclosure. this means any entity that receives substance abuse records may not disclose them to any one else without the patient's consent.  disclosures lesson 2 15 / 24 normal protection in addition to the normal protections that fall under hipaa privacy, there are additional protections for particular types of medical records. these protections relate to federally assisted programs that hold themselves out as providing alcohol or drug abuse treatment, diagnosis, or referral for treatment.   substance use disorder treatment protections these additional protections, specifically the privacy provisions of 42 cfr part 2, were motivated by the understanding that stigma and fear of prosecution might dissuade individuals with substance use disorders from seeking treatment.   click on the hotspot            areas to learn more. hipaa privacy rule  </slidetext>
+      <slidetext slideid="5iRMJIWmda8.67davTO7t3i" slidebank="false" type="slide">16/ 24  hipaa privacy phi rule mistakes    these hipaa phi violations consisted of examples such as, leaving confidential phi papers out in the open, speaking of sensitive phi information out loud and disposing of unwanted phi details.  when these breaches of ephi and hipaa rules occur, companies can be at risk of unwanted consequences that can affect the organization, such as legal troubles and lawsuits.  let's take a look at the video.  click the next button. hipaa  privacy rule   lesson 2  scenario video</slidetext>
+      <slidetext slideid="5iRMJIWmda8.6qRqbcEma4j" slidebank="false" type="slide"> lesson 2 17 / 24   privacy rule phi mistakes video  hipaa privacy rule  </slidetext>
+      <slidetext slideid="5iRMJIWmda8.6PsDN3VwgZA" slidebank="false" type="slide">lesson 2 18 / 24  lesson 02  this course has knowledge check questions designed to help you retain what you’ve learned. this lesson contains (5) questions, at the end of each question you’ll find out how well you did.   lets get started. knowledge check questions  hipaa privacy rule  </slidetext>
+      <slidetext slideid="5iRMJIWmda8.5hrehSjx9We" slidebank="false" type="slide">the correct answer is:  ask to see a get a copy of health records of her spouse.  wrong! sorry! this is not the correct answer! better luck next time!   correct! yes, you did it, you chose the correct answer. congratulations, good job!  lesson 2 19 / 24 select only one answer.  ask to see and get a copy of her health records.   ask to see and get a copy of her health records.  ask to see and get a copy of her health records.  have corrections added to her health information.   have corrections added to her health information.  have corrections added to her health information. receive notice that tells her how her health information may be used and shared.  receive notice that tells her how her health information may be used and shared. receive notice that tells her how her health information may be used and shared.   ask to see a get a copy of health records of her spouse.   ask to see a get a copy of health records of her spouse.  ask to see a get a copy of health records of her spouse. submit submit submit submit submit  question 1 the privacy rule gives the patients the  right to all but which one of the following: hipaa privacy rule  </slidetext>
+      <slidetext slideid="5iRMJIWmda8.6Qq8SCZPN8q" slidebank="false" type="slide">the correct answer is: false   wrong! sorry! this is not the correct answer! better luck next time!    correct! yes, you did it, you chose the correct answer. congratulations, good job!  lesson  2 20/ 24 disclosure of phi takes place when a covered entity examines or analyzes the information. true true true true true false false false false false   true or false question 2 hipaa privacy rule  </slidetext>
+      <slidetext slideid="5iRMJIWmda8.6DyiLD4Ub0h" slidebank="false" type="slide">the correct answer is:  the individual who is subject of the information (or the individual’s personal representative) authorizes in writing.   wrong! sorry! this is not the correct answer! better luck next time!   correct! yes, you did it, you chose the correct answer. congratulations, good job!  lesson  2 21 / 24 the individual who is subject of the information (or the individual’s personal representative) authorizes in writing.   the individual who is subject of the information (or the individual’s personal representative) authorizes in writing.  the individual who is subject of the information (or the individual’s personal representative) authorizes in writing.  the information is requested by a family member  the information is requested by a family member the information is requested by a family member  the information is requested by the spouse.   the information is requested by the spouse.  the information is requested by the spouse. all of the above   all of the above  all of the above  submit submit submit submit   select only one answer  question 3 the “covered entity” may use or disclose  protected health information when: hipaa privacy rule  </slidetext>
+      <slidetext slideid="5iRMJIWmda8.5sf2Ijs8q3y" slidebank="false" type="slide">the correct answer is: true   wrong! sorry! this is not the correct answer! better luck next time!    correct! yes, you did it, you chose the correct answer. congratulations, good job!  lesson  2 22 / 24 true or false hipaa does not allow patients to restrict the disclosure of phi that will be used for their own medical treatment. true true true true true false false false false false   question 4 hipaa privacy rule  </slidetext>
+      <slidetext slideid="5iRMJIWmda8.6j61ERzfcVS" slidebank="false" type="slide">the correct answer is: employment records that the covered entity maintains in its capacity as an employer.  wrong! sorry! this is not the correct answer! better luck next time!   correct! yes, you did it, you chose the correct answer. congratulations, good job!  lesson  2 23 / 24 which of the following is not  individually identifiable information? the individual’s past, present or future physical or mental health or condition.  the individual’s past, present or future physical or mental health or condition. the individual’s past, present or future physical or mental health or condition. the past, present, or future payment for the provision of health care to the individual  the past, present, or future payment for the provision of health care to the individual the past, present, or future payment for the provision of health care to the individual employment records that the covered entity maintains in its capacity as an employer.  employment records that the covered entity maintains in its capacity as an employer. employment records that the covered entity maintains in its capacity as an employer.  submit submit submit submit submit  the provision of health care to the individual   the provision of health care to the individual  the provision of health care to the individual select only one answer  question 5</slidetext>
+      <slidetext slideid="5iRMJIWmda8.6c3CbFSYjwQ" slidebank="false" type="slide">24 / 24   congratulations! this is the last page of the lesson 2.  click the button to start lesson 3. click to leave the course.  start lesson  3 start lesson  3 start lesson  3 leave the course leave the course leave the course hipaa privacy rule</slidetext>
+      <slidetext slideid="6CHfAmzi4QI.6duEXgFef4e" slidebank="false" type="slide">1 /17 in this lesson, we’ll discuss the primary aspects of the hipaa security rule.  lesson 3 understanding hipaa security rule hipaa security rule</slidetext>
+      <slidetext slideid="6CHfAmzi4QI.6IdpsQI8Ame" slidebank="false" type="slide"> the security rule requires appropriate administrative, physical, and technical safeguards to ensure the confidentiality, integrity, and security of electronic protected health information. the ephi that a covered entity creates, receives, maintains, or transmits must be protected against reasonably anticipated threats, hazards, and impermissible uses and or disclosures. in general, the requirements, standards, and implementation specifications of the securityrule applies to the following covered entities:  covered healthcare providers health plans healthcare clearinghouses medicare prescription drug card sponsors  lesson 3 2/17 the hipaa security rule regulates the protection of electronic protected health information (ephi) that is created, received, used or maintained by a covered entity. over the next few slides we’ll review the following: administrative safeguards technical safeguards physical  safeguard  introduction to the hipaa security rule it is important to understand simple do's and don'ts related to working with electronic protected health information (ephi) and hipaa security. click here to  learn more about the  hipaa security rule  click here to  learn more about the  hipaa security rule  click here to  learn more about the  hipaa security rule  hipaa security rule</slidetext>
+      <slidetext slideid="6CHfAmzi4QI.6Fs5J91tNK0" slidebank="false" type="slide"> lesson  3 3 / 17   hipaa security rules  hipaa security rule</slidetext>
+      <slidetext slideid="6CHfAmzi4QI.5w40qhPpd4R" slidebank="false" type="slide"> business associate contracts and other arrangements business associate contracts and other arrangements a covered entity may permit a business associate to create, receive, maintain, or transmit electronic protected health information on the covered entity's behalf only if the covered entity obtains satisfactory assurances, that the business associate will appropriately safeguard the information. a covered entity is not required to obtain such satisfactory assurances from a business associate that is a subcontractor. implementation specifications: a written contract or other arrangement that documents the satisfactory assurances required through a written contract or other arrangement with the business associate that meets the applicable requirements of the organization.    perform a periodic technical and non-technical evaluation, based initially upon the standards implemented under this rule and, subsequently, in response to environmental or operational changes affecting the security of electronic protected health information ephi that establishes the extent to which a covered entity's or business associate's security policies and procedures meet the requirements of this subpart. evaluation evaluation   contingency plan contingency plan establish policies and procedures for responding to an emergency or other occurrence (for example, fire, vandalism, system failure, and natural disaster) that damages systems that contain electronic protected health information. implementation of the following are required: data backup plan; establish and implement procedures to create and maintain retrievable exact copies of ephi. disaster recovery plan. establish (and implement as needed) procedures to restore any loss of data. emergency mode operation plan procedures to enable continuation of critical business processes for protection of the security of ephi while operating in emergency mode. testing and revision procedures. implement procedures for periodic testing and revision of contingency plans.    security incident procedures security incident procedures       implement policies and procedures to address security incidents.        response and reporting,  identify suspected or known security incidents; mitigate, to the extent practicable, harmful effects of security incidents that are known to the covered entity or business associate, and document the security incidents and their outcomes.   security awareness and training security awareness and training implement a security awareness and training program for all members of its workforce (including management). implementation of the following are required; security reminders. periodic security updates. protection from malicious software. procedures for guarding against, detecting, and reporting malicious software. log-in monitoring. procedures for monitoring log-in attempts and reporting discrepancies. password management. procedures for creating, changing, and safeguarding passwords.  information access management information access management implement policies and procedures for authorizing access to electronic protected health information that are consistent with the applicable requirements of subpart e of this part. implementation of the following are required;  isolating health care functions, if healthcare is part of a larger organization, the organization must implement policies and procedures that protect the electronic protected health.  access authorization, granting access to electronic protected health information, for example, like providing access to a workstation.  access establishment and modification, based upon the covered entity's or the business associate's access authorization policies, establish, document, review, and modify a user's right of  access          to a workstation, transaction, program, or process.  assigned security responsibility  assigned security responsibility  the standard requires that covered entities identify the security official who is responsible for the development and implementation of the policies and procedures required by this subpart for the covered entity or business associate.   workforce security workforce security implement policies and procedures to ensure that all members of its workforce have appropriate access to electronic protected health information, and to prevent those workforce members who do not have access from obtaining access to electronic protected health information.   security management process security management process the purpose of this standard is to establish the administrative processes and procedures that a covered entity will use to implement the security program in its environment.  4 /17 security management process security management process security management process security management process assigned security responsibility assigned security responsibility assigned security responsibility assigned security responsibility workforce security workforce security workforce security workforce security information access management information access management information access management information access management security awareness and training security awareness and training security awareness and training security awareness and training security incident procedures security incident procedures security incident procedures security incident procedures contingency plan contingency plan contingency plan contingency plan evaluation evaluation evaluation evaluation  administrative safeguards  lesson 3 hipaa security rule click the tabs to view the list of safeguard measures provided by ramsey county. administrative safeguards are policies and procedures required by hipaa. they are defined in the “security rule” as the administrative actions and policies, and procedures to manage the selection, development, implementation, and maintenance of security measures to protect electronic protected health information and to manage the conduct of the covered entity's workforce in relation to the protection of that information. ramsey county's hipaa policies are posted on ramseynet.   business associate contracts and other arrangements business associate contracts and other arrangements business associate contracts and other arrangements business associate contracts and other arrangements</slidetext>
+      <slidetext slideid="6CHfAmzi4QI.61YGP3Qj3SO" slidebank="false" type="slide"> ramsey county password standard passwords ensure that only  approved individuals can access ramsey county's technology systems and assets.  however, passwords have serious weaknesses as an access control.  for high-risk systems, other approved authentication methods that provide greater levels of assurance and accountability may be used in place of passwords. . password to manage or prevent  attacks, users are recommended to do the following.  use a different password than the previous 24 passwords. change your password every  90 days.  county encryption  ramsey county encrypted email should be used by staff who must use email to transmit private, confidential or other nonpublic data outside the ramsey county network.   recipients will receive a message from “microsoft” with instructions for how to retrieve their encrypted message.  these measures protect your networks and devices from data breaches: examples include having anti-virus software, data encryption, and firewalls encrypt sensitive files that your organization sends via email and ensure that any cloud-based platform you use offers encryption. protect your network from hackers and other cyberthieves with   firewalls and intrusion detection and prevention systems. train employees to identify and avoid phishing scams. require that employees periodically change their passwords, and ensure passwords contain a mix of letters, numbers, and special characters.  encryption is a method of converting an original message of regular text into encoded text. the text is encrypted by means of a type of formula.  what is encryption?   lesson  3 5 / 17 technical safeguards are defined as the technology and the policy and procedures for its use that protect electronic protected health information and control access to it.  the security standards address the safeguards that must be in place to protect infrastructure that can access, handle, or store electronic protected health information.  .  what is encryption?   what is encryption?   what is encryption?   what is encryption?   what is encryption?   protect your networks  protect your networks  protect your networks  protect your networks  protect your networks  county encryption  county encryption  county encryption  county encryption  county encryption  password standard password standard password standard password standard password standard  technical safeguards  introduction click on each of the tabs to learn more about        technical safeguards. hipaa security rule</slidetext>
+      <slidetext slideid="6CHfAmzi4QI.6Ln5XogQwab" slidebank="false" type="slide">6 /17  compose your message, then click “send”. 5 compose your message, then click “send”. select “ramsey county” information services.  4 select “ramsey county” information services.  select the “encrypt” drop down arrow to view more options to send the message. 3 select the “encrypt” drop down arrow to view more options to send the message. in the message that you are composing, click “options”.   2 in the message that you are composing, click “options”.   click “new email” from the outlook menu bar. 1 click “new email” from the outlook menu bar. follow the steps outlined below to encrypt an email.    5 easy steps to encrypt an email when you need to protect the privacy of an email message, encrypt it. encrypting an email message in outlook means it's converted from a readable plain text into scrambled cipher text. how to encrypt a single message lesson 3 hipaa security rule</slidetext>
+      <slidetext slideid="6CHfAmzi4QI.63dYquzal7A" slidebank="false" type="slide">   device and media control when covered entities dispose of any electronic media that contains ephi they should make sure it is unusable or inaccessible, this includes electronic storage media including memory devices in computer (hard drives) and any removable/transportable digital memory medium, such as magnetic tape or disk, optical disk, or digital memory card. keeping an inventory of devices that store ephi and ensuring they are adequately wiped before they're reused or disposed.  it is important to remove all ephi previously stored on the media to prevent unauthorized access to the information.   phi paper copies depositing phi in a trash receptacle generally accessible by the public or other unauthorized persons is not an appropriate privacy or security safeguard. instead, covered entities must implement reasonable safeguards to limit incidental, and avoid prohibited, uses and disclosures of phi documents.  for example, depending on the circumstances, proper disposal methods may include (but are not limited to):  shredding, or otherwise destroying phi in paper records so that the phi is rendered essentially unreadable, indecipherable, and otherwise cannot be reconstructed prior to it being placed in a dumpster or other trash receptacle.   restricted access restrict access to secure areas, and monitor building safety. some other common controls include things like locked doors, signs labeling restricted areas, surveillance cameras, onsite security guards, and alarms.  personnel controls could include id badges and visitor badges. there should be limited physical  access to all ephi to that which is only necessary and authorized.   limited access limit access to computers by keeping them behind counters, secured to a desks, and away from the general public. 7/ 17 physical safeguards are defined as the physical measures, policies, and procedures to protect a covered entity's electronic information systems and related buildings and equipment, from natural and environmental hazards, and unauthorized intrusion.  limited access limited access limited access limited access limited access restricted access restricted access restricted access restricted access restricted access paper copies of “phi” paper copies of “phi” paper copies of “phi” paper copies of “phi” paper copies of “phi” device and media control device and media control device and media control device and media control device and media control  physical safeguards  lesson 3 understanding hipaa security rule these hipaa rules help your organization prevent physical theft and loss of devices that contain patient information.  click the tabs to review (4) examples  of physical safeguard measures. hipaa security rule</slidetext>
+      <slidetext slideid="6CHfAmzi4QI.6LFL6pscT4C" slidebank="false" type="slide"> remember to “never” use a password on any county systems that are used on external systems (including internet banking and social networking services. never write down your password. never use the remember password feature in any web browser. never use any password keeper, programmable device, or password wallet, software or service.   disclose your password to anyone, including county management and technical support staff, even if they demand it. if this happens, you must escalate to your line management immediately. the only exception is disclosure to a law enforcement officer in accordance with local laws. in this circumstance, seek guidance from the county's legal department.  remember “do not”   a password should include: at least twelve (12) or more characters. a mix of alpha and numeric, with at least one digit (0 through 9) or special character ($, @. # and so on). made up of at least one uppercase and one lowercase character. passwords should more complex than a single word (such passwords are easier for hackers to crack).  introduction increasing password complexity helps prevent unauthorized access to your account. ramsey county has implemented technology that detects passwords that are weak or previously involved in a break.  weak passwords are easily guess-able, it contains seasons, days, years and common names.  anything discoverable about you on social media should not be used as a password.  8 /17 hipaa regulations require healthcare entities to enact procedures for creating, changing, and safeguarding passwords, but they don't specify the details or the required complexity of the passwords.  introduction introduction introduction introduction introduction  password   password   password   password   password  do not do not do not do not do not never do never do never do never do never do  password strength requirements  click on the tab to view  minimum password requirements. lesson 3 hipaa security rule</slidetext>
+      <slidetext slideid="6CHfAmzi4QI.6X1WqSBAWXS" slidebank="false" type="slide">9/ 17  hipaa ephi - examples of what not to do  this video exemplifying several breaches of hippa and phi rules. hipaa and ephi are sensitive health information that should consistently be encrypted and kept safe and out of the wrong hands.  e-phi and hipaa compliance is important to any business handling such sensitive information, some forms of compliance including: changing passwords often and encrypting information on devices and emails. if lost or stolen, this could potentially cost the company thousands on lawsuits and loss of information. let's take a look at the video.  click the next button. lesson 3   scenario video hipaa security rule</slidetext>
+      <slidetext slideid="6CHfAmzi4QI.6V6ywg12HtN" slidebank="false" type="slide"> lesson  3 10 / 17    hipaa ephi examples of what not to do hipaa security rule</slidetext>
+      <slidetext slideid="6CHfAmzi4QI.5bpUvl7JzWO" slidebank="false" type="slide">lesson 3 11 / 17  lesson 03  this course has knowledge check questions designed to help you retain what you’ve learned. this lesson contains (5) questions, at the end of each question you’ll find out how well you did.   lets get started. knowledge check questions  hipaa security rule</slidetext>
+      <slidetext slideid="6CHfAmzi4QI.6HFojpxDB7D" slidebank="false" type="slide">the correct answer is:  the first statement is: true the second statement is: false the third statement is: false   wrong! sorry! this is not the correct answer! better luck next time!    correct! yes, you did it, you chose the correct answer. congratulations, good job!  lesson  3 12/17 true or false there are (3) separate questions related to the hipaa security rule. select if the statements is true or false? submit submit submit submit  true false administrative safeguards are policies and procedures that are required by hipaa. administrative safeguards are policies and procedures that are required by hipaa. business associates of a covered entity will never be given access to protected health information.  business associates of a covered entity will never be given access to protected health information.  hipaa regulations does not require healthcare entities to enact procedures for creating, changing, and safeguarding passwords. hipaa regulations does not require healthcare entities to enact procedures for creating, changing, and safeguarding passwords.        question 1 select the correct answer for each one and click submit. hipaa security rule</slidetext>
+      <slidetext slideid="6CHfAmzi4QI.6lhhnlGaEVQ" slidebank="false" type="slide">the correct answer is:  all of the above.  wrong! sorry! this is not the correct answer! better luck next time!   correct! yes, you did it, you chose the correct answer. congratulations, good job!  lesson 3 13/ 17 the hipaa security rule requires covered entities to:  maintain reasonable and appropriate administrative, technical, and physical safeguards for protecting electronic protected health information (e-phi).  maintain reasonable and appropriate administrative, technical, and physical safeguards for protecting electronic protected health information (e-phi). maintain reasonable and appropriate administrative, technical, and physical safeguards for protecting electronic protected health information (e-phi). identify and protect against reasonably anticipated threats to the security or integrity of the information.  identify and protect against reasonably anticipated threats to the security or integrity of the information. identify and protect against reasonably anticipated threats to the security or integrity of the information. ensure the confidentiality, integrity, and availability of all e-phi they create, receive, maintain or transmit.  ensure the confidentiality, integrity, and availability of all e-phi they create, receive, maintain or transmit. ensure the confidentiality, integrity, and availability of all e-phi they create, receive, maintain or transmit.  all of the above.  all of the above. all of the above. submit submit submit submit submit  question 2 select the correct answer and click submit. hipaa security rule</slidetext>
+      <slidetext slideid="6CHfAmzi4QI.5Xh3DU7OiMd" slidebank="false" type="slide">  wrong! sorry! this is not the correct answer! better luck next time!    correct! yes, you did it, you chose the correct answer. congratulations, good job!  lesson  3 14/17 drag and drop where each answer should be dropped, on the correct corresponding image box, outlining the steps to encrypt your email, then click the submit button. submit submit submit submit            step 1 step 1 step 1 step 2 step 2 step 2 step 3 step 3 step 3 step 4 step 4 step 4 step 5 step 5 step 5  question 3 hipaa security rule</slidetext>
+      <slidetext slideid="6CHfAmzi4QI.6b5M9w6IzkW" slidebank="false" type="slide">the correct answer is:  all of the above.  wrong! sorry! this is not the correct answer! better luck next time!   correct! yes, you did it, you chose the correct answer. congratulations, good job!  lesson  3 15/ 17 which of the following safeguards does the security rule require covered entities to maintain to ensure the confidentiality, integrity, and security of ephi. administrative  administrative administrative technical  technical technical physical  physical physical  all of the above  all of the above all of the above submit submit submit submit submit  question 4 select the correct answer and click submit. hipaa security rule</slidetext>
+      <slidetext slideid="6CHfAmzi4QI.5g7dsPOgBNa" slidebank="false" type="slide">the correct answer is:  yes, there should always be limited physical  access to all ephi to that which is only necessary and authorized.   sorry! you didn’t answer correctly! better luck next time.    congratulations! your answer is correct!   lesson 3   16 /17 yes or no question there should always be limited physical  access to all ephi to that which is only necessary and authorized. yes yes yes yes yes no no no no no   question 5 submit submit submit submit select the correct answer and click submit. hipaa security rule</slidetext>
+      <slidetext slideid="6CHfAmzi4QI.6oPuuzc01S2" slidebank="false" type="slide">17 /17   congratulations! this is the last page of lesson 3.  click the button to start lesson 4  click to leave the course.  start lesson  4 start lesson  4 start lesson  4 leave the course leave the course leave the course hipaa security rule lesson 3</slidetext>
+      <slidetext slideid="5mvvd3Tljdf.69930fN3PVy" slidebank="false" type="slide">1 /17 in this lesson, you’ll learn how the hipaa privacy rule establishes patients rights, and imposes additional obligations to your organization.  lesson 4 individual privacy rights individual privacy rights</slidetext>
+      <slidetext slideid="5mvvd3Tljdf.5YabtugfpDu" slidebank="false" type="slide"> introduction  notice of privacy practices (npp) 2 / 17 lesson 4  the npp is a document that tells your patients, employees, or clients how their health information may be used and shared and lists their health privacy rights related to protected health information.  when you mention hipaa, most people reference the notice of privacy practices npp they received at the hospital, doctors office, or dentist or eye doctor.  it's a part of the hipaa privacy rule and a key requirement for the organization. individual privacy rights</slidetext>
+      <slidetext slideid="5mvvd3Tljdf.5lhHYGp65Y4" slidebank="false" type="slide"> lesson 4 3 / 17      phi and notice of privacy practices (npp) individual privacy rights</slidetext>
+      <slidetext slideid="5mvvd3Tljdf.6JaQSuLObv4" slidebank="false" type="slide"> fact  2 state the covered entity’s duties to protect privacy, and provide a notice of privacy practices, and abide by the terms of the current notice.   fact 4 include a point of contact for further information and for making complaints to the covered entity.    fact  3 describe individuals’ rights, including the right to complain to hhs, and to the covered entity if they believe their privacy rights have been violated.   fact 1 describe the ways the covered entity may use and disclose protected health information. lesson 4 4 / 17 fact 1 fact 1 fact 1 fact 1 fact 1 fact 2 fact 2 fact 2 fact 2 fact 2 fact 3 fact 3 fact 3 fact 3 fact 3 fact 4 fact 4 fact 4 fact 4 fact 4  what does a notice of privacy practices include notice of privacy practices (npp) must include the following: note: hipaa gives patients the right to see and receive a copy of their medical records (not the original records). click the tabs to learn more about the (4 ) key facts of npp. individual privacy rights</slidetext>
+      <slidetext slideid="5mvvd3Tljdf.5z9GIZl1XrL" slidebank="false" type="slide"> acknowledgment of npp written documentation that the notice was provided to a patient, either signed by the patient or completed by a staff member explaining why the patient did not sign it.    a statement given to each patient describing how the practice will use and disclose health information. you may do this by getting a signature acknowledging the individual received the npp or keeping a dated log of npp distribution.  provide notice of privacy practice npp    hipaa requires  hipaa requires doctors, hospitals, or other healthcare providers to keep records that clients or employees have received the notice of npp.                               there 2 ways to do this.  lets review them. lesson 4 5 / 17 acknowledgment of notice of privacy practices  click on the hotspot areas, from left to right to learn more about notice of privacy practices individual privacy rights</slidetext>
+      <slidetext slideid="5mvvd3Tljdf.6e5MAb5Soac" slidebank="false" type="slide">6 /17  patient rights  lesson 4  individual privacy rights the hipaa  privacy rule establishes patient rights, to allow individuals to have more control over decisions regarding their health including the right to do the following: to review and request a copy of their records.  to request changes or amend their records. to have changes communicated to others.  this right is in addition to an individual's right to see private data about them in the minnesota government data practices act.</slidetext>
+      <slidetext slideid="5mvvd3Tljdf.6PKIqYBIrKj" slidebank="false" type="slide">lesson 4 7/ 17  provider rights  hipaa privacy rule provides individuals with a legal, enforceable right to see and receive copies upon request of the information in their medical records, and other health records maintained by their health care providers and health plans.  individual privacy rights in addition to patients' rights, hipaa gives medical providers the authority to charge for copies of medical records and to deny a patient's request to change their medical records.</slidetext>
+      <slidetext slideid="5mvvd3Tljdf.64Jor4LzE5T" slidebank="false" type="slide"> additional covered entity penalties  a cover entity may also be liable for a hipaa violation committed by an agent, workforce member, or a business associate of that ce, who is working for the ce workforce member means an employee, trainee, volunteer or other person whose work is under the direct control of the ce.  a ramsey county staff member may also face employment discipline for failing to comply with hipaa policies and procedures.  penalty guidelines  the federal department of health and human services hhs may impose a fine on a covered entities ce or business associate ba if hhs determines that the ce or ba violated the hipaa rules. lesson 4  8 /17  additional covered entity penalties  penalty guidelines  penalties for non-compliance click on box 1 and 2 to learn more about penalties. the department of health and human services hhs, office for civil rights ocr is responsible for enforcing hipaa. ocr receives complaints, handles investigations and can issue penalties. individual privacy rights</slidetext>
+      <slidetext slideid="5mvvd3Tljdf.5ZTWa2EiuVJ" slidebank="false" type="slide">9/ 17  hipaa summary review  we’ve come to the end of this course, this next video will sum up the main key points about privacy rule and security rule and individual privacy rights.  let's take a look at the video.  click the next button. individual privacy rights   lesson 4  introduction summary</slidetext>
+      <slidetext slideid="5mvvd3Tljdf.6hCWSqX2oJu" slidebank="false" type="slide"> lesson 4 10 / 17   hipaa summary review  course summary review</slidetext>
+      <slidetext slideid="5mvvd3Tljdf.5oUN5suY3IJ" slidebank="false" type="slide">lesson 4 11 /17  lesson 04  this course has knowledge check questions designed to help you retain what you’ve learned. this is the final lesson for your hipaa annual training, there are (4) questions, at the end of each question you’ll find out how well you did.   lets get started. knowledge check questions  individual privacy rights</slidetext>
+      <slidetext slideid="5mvvd3Tljdf.62AQeeFY9lM" slidebank="false" type="slide">the corrected answers are: the first statement is true. the second statement is false. the third answer is true.   wrong! sorry! this is not the correct answer! better luck next time!    correct! yes, you did it, you chose the correct answer. congratulations, good job!  lesson  4 12 / 17 true or false listed below are three slightly different statements for your valuation – select if its true or false? submit submit submit submit  true false individuals have the right to request that a covered entity restrict use or disclosure of protected health information.  individuals have the right to request that a covered entity restrict use or disclosure of protected health information.  the covered entity must accept all requests by the patient for restrictions to the release of the patient information – no exceptions. the covered entity must accept all requests by the patient for restrictions to the release of the patient information – no exceptions. the individual may request that the “protected” information on file be changed. the individual may request that the “protected” information on file be changed.        question 1 select the answer and click submit. individual privacy rights</slidetext>
+      <slidetext slideid="5mvvd3Tljdf.6kLJYqHgLrN" slidebank="false" type="slide">this correct answer is: both b and c  wrong! sorry! this is not the correct answer! better luck next time!   correct! yes, you did it, you chose the correct answer. congratulations, good job!  lesson  2 13 / 17 when is it allowable to use or disclose phi electronically (e-phi) via email or other electronic devices, including smartphones? always.  always. always. after a covered entity has implemented policies and procedures to restrict access to, protect the integrity of, and guard against unauthorized access to e-phi.  after a covered entity has implemented policies and procedures to restrict access to, protect the integrity of, and guard against unauthorized access to e-phi. after a covered entity has implemented policies and procedures to restrict access to, protect the integrity of, and guard against unauthorized access to e-phi. both b and c.  both b and c. both b and c.  submit submit submit submit submit  after obtaining authorization from a patient as their preferred means of communication.   after obtaining authorization from a patient as their preferred means of communication.  after obtaining authorization from a patient as their preferred means of communication. select only one answer question 5  question 2</slidetext>
+      <slidetext slideid="5mvvd3Tljdf.6VE0FGMpLoB" slidebank="false" type="slide">the correct answer is: office of inspector general (oig)  wrong! sorry! this is not the correct answer! better luck next time!   correct! yes, you did it, you chose the correct answer. congratulations, good job!  lesson 3 14/ 17 which division of the department of health and human services (hhs) is responsible for administering and enforcing hipaa privacy and security standards? office of the national coordinator for health information technology (onc).  office of the national coordinator for health information technology (onc). office of the national coordinator for health information technology (onc). office of civil rights (ocr).  office of civil rights (ocr). office of civil rights (ocr). office of inspector general (oig)  office of inspector general (oig) office of inspector general (oig)  submit submit submit submit submit question 2 select the correct answer and click submit. hipaa security rule  question 3</slidetext>
+      <slidetext slideid="5mvvd3Tljdf.5sUh8yCgnIX" slidebank="false" type="slide">the correct answer is: the individual who is subject of the information (or the individual’s personal representative) authorizes in writing.   correct! yes, you did it, you chose the correct answer. congratulations, good job!   wrong! sorry! this is not the correct answer! better luck next time!  lesson 3 15/ 17 the “covered entity” may use or disclose protected health information when: the individual who is subject of the information (or the individual’s personal representative) authorizes in writing.   the individual who is subject of the information (or the individual’s personal representative) authorizes in writing.  the individual who is subject of the information (or the individual’s personal representative) authorizes in writing.  the information is requested by a family member.  the information is requested by a family member. the information is requested by a family member. the information is requested by the spouse.  the information is requested by the spouse. the information is requested by the spouse.  submit submit submit submit submit question 2 select the correct answer and click submit. hipaa security rule  question 4</slidetext>
+      <slidetext slideid="5mvvd3Tljdf.5aGqHhPOfUR" slidebank="false" type="slide">16 / 17   keeping patients privacy and security in mind when completing everyday task helps prevent breaches.  lets review the 4 key takeaways from this lesson. when required to access use or disclose phi, use the minimum necessary to perform the task.  1 when required to access use or disclose phi, use the minimum necessary to perform the task.  phi can only be disclosed to outside entities in limited situations. the patient’s authorization to share data  is often needed. 2 phi can only be disclosed to outside entities in limited situations. the patient’s authorization to share data  is often needed. follow ramsey county organization policies to ensure the security of ephi. 3 follow ramsey county organization policies to ensure the security of ephi. county staff members may face employment discipline for failing to comply with hipaa policies and procedures. 4 county staff members may face employment discipline for failing to comply with hipaa policies and procedures.  key takeaways lesson 4 individual privacy rights remember access use or disclose information only as needed to do you job.</slidetext>
+      <slidetext slideid="5mvvd3Tljdf.5iXDSU8X3ju" slidebank="false" type="slide">lesson 4 17 / 17   congratulations! this is the last page of the course. you have completed the ramsey county annual hipaa compliance training course. click the leave the course button to exit,   contact information compliance &amp; ethics office location 15 west kellogg blvdcourthouse # 250 saint paul, minnesota, 55102 (651) 266-3344 https://www.ramseycounty.us/   congratulation! leave the course leave the course leave the course</slidetext>
+      <slidetext slideid="5bCj4VklFNm.6netS8zd8ht" slidebank="false" type="slide">1 / 7  annual hipaa  compliance training  welcome to the annual compliance hipaa training. this is a elearning course that addresses what you need to know about hipaa privacy and security and how these affect the way you do your job.  start the course start the course start the course for hipaa privacy &amp; security welcome intro</slidetext>
+      <slidetext slideid="5bCj4VklFNm.6abO5xBdVs9" slidebank="false" type="slide">  volume on or off if you do not have access to speakers, you can click the volume off icon, to turn off the course audio, if you wish to just read through the course, or click the turn on volume icon to play course audio.      turn on volume turn off volume   volume  this course has audio, this icon controls the volume up or down,        so make sure you have access to speakers, headphones, or a quiet area.  previous and next button prev and next icons are available at the bottom right of the screen. they allow you to advance “forward” and “backward” in the course.     menu throughout this course you will see a menu displayed on the left side of the screen. you'll see the icon in the top upper left corner.  the menu is unlocked, so you can use it to review slides you’ve completed, and move forward in the course.    2 /7 in this section of the course, we will cover  the “4 main icons”, used to navigate throughout the course.  for more details, click on each icons to learn the necessary instructions before starting this course.                            navigation and course instructions  hint: click in the blue area of each box .   look for the hand symbol then click the box.      welcome intro</slidetext>
+      <slidetext slideid="5bCj4VklFNm.6G9ogt1iscs" slidebank="false" type="slide">3 / 7 the course will take 45-minutes, you will learn all about what you need to know about the following hipaa rules.  hipaa privacy rule  1  2 hipaa security rule  3 individual privacy right’s  about this course welcome intro</slidetext>
+      <slidetext slideid="5bCj4VklFNm.5mBgvWwSFnN" slidebank="false" type="slide">4/7    by the end of this course,  you’ll be able to do the following: by the end of this course,  you’ll be able to do the following: understand what is hipaa, and how it regulates your work, as well as other aspects of your job.  1 understand what is hipaa, and how it regulates your work, as well as other aspects of your job.  identify what constitutes protected health information (phi), how to safeguard it, and what to do if you suspect a breach has occurred.   2 identify what constitutes protected health information (phi), how to safeguard it, and what to do if you suspect a breach has occurred.   understand how the hipaa privacy rule regulates employees access, and establishes individual patient’s rights. 3 understand how the hipaa privacy rule regulates employees access, and establishes individual patient’s rights. understand and discuss the primary aspects of the hipaa security rule. 4 understand and discuss the primary aspects of the hipaa security rule.  course objectives welcome intro</slidetext>
+      <slidetext slideid="5bCj4VklFNm.5jU5BwjtsUc" slidebank="false" type="slide">5/7  introduction video    this is a brief introduction to hipaa. let's take a look at the video.  click the next button. hipaa rules  welcome intro video  </slidetext>
+      <slidetext slideid="5bCj4VklFNm.6akcaiXI14r" slidebank="false" type="slide"> 6 / 7   introduction to hipaa video</slidetext>
+      <slidetext slideid="5bCj4VklFNm.5oyZEofH2jD" slidebank="false" type="slide">7 /7   congratulations! this is the last page of this section.  click the button to start lesson 1 click to leave the course  start lesson  1 start lesson  1 start lesson  1 leave the course leave the course leave the course welcome intro  </slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="&lt;p align='left'&gt;&lt;font face='Lato' style='font-size: 11px;' size='11' color='#B4B4B4'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
+    <resources>
+      <resource url="story_content/external_files/New HIPAA Training Outline.8.14.20. docx.docx" image="story_content/6CAW6KthwXM.png" title="Annual HIPAA Compliance Training 2020" />
+    </resources>
+  </resource_data>
+  <transcript_data />
+  <glossary_data>
+    <terms>
+      <term title="Authorizations ">The HIPAA Privacy Rule requires that an individual provide signed authorization to a covered entity, before the entity may use or disclose certain protected health information (PHI). 
+
+A HIPAA authorization form gives covered entities permission to use protected health information for purposes other than treatment, payment, or health care operations. </term>
+      <term title="BAs and HIPAA Rules">The list is very broad and covers many types of activity. For example, consulting, legal, management, and administrative services can be performed by a Business Associate.
+
+The list also includes subcontractors that create, receive, maintain, or transmit Protected Health Information on behalf of a Business Associate. 
+In other words, a company or person that works for a Business Associate as a subcontractor would be a Business Associate.
+</term>
+      <term title="Business Associate ">A Business Associate is defined as a person or company that creates, receives, or transmits Protected Health Information on behalf of a Covered Entity. A Business Associate does not work directly for the covered entity as a permanent employee or in the capacity as a member of the covered entity's workforce</term>
+      <term title="Covered Entity ">Covered Entities are defined in the HIPAA rules as (1) Health Plans, (2) Health Care Clearinghouses, and (3) Health Care providers who electronically transmit any health information in connection with transactions for which HHS has adopted standards.</term>
+      <term title="Health Information Definition">“Health Information" means any information in any form regarding an individual’s medical condition, the provision of their medical care, or the payment for their medical care that is created by an entity subject to HIPAA.
+
+“Protected health information” has a two-part definition: 
+</term>
+      <term title="Hybrid Entity ">A HIPAA Hybrid Entity is a single legal organization that has some functions covered by HIPAA and some that are not. Ramsey County is a HIPAA hybrid entity. As a result, not every part of the county needs to comply with HIPAA. </term>
+      <term title="Minimum Necessary Use">The "Minimum Necessary" dictates that employees should only access the "minimum necessary" amount of PHI, to perform their job functions. This regulates whether an employee can access PHI, including the amount, and type of PHI. </term>
+      <term title="Protected Health Information (PHI)">PHI stands for Protected Health Information. 
+
+The HIPAA Privacy Rule provides federal protections for personal health information held by Covered Entities and gives patients an array of rights with respect to that information.</term>
+    </terms>
+  </glossary_data>
+</bwFrame>
